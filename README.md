@@ -8,14 +8,6 @@ I am **Alejandro Vargas**, a Software Engineer with experience in web applicatio
 
 ---
 
-## 🌟 **Features**
-
-- Overview of my **GitHub projects**.
-- Detailed **resume** with professional experience.
-- Showcase of my **technical skills**.
-
----
-
 ## 🔧 **Technologies**
 
 - **Programming Languages:**
