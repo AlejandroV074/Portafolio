@@ -1,76 +1,57 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+# Alejandro Vargas - Personal Portfolio
 
-<br/>
+Welcome to my personal portfolio! This website showcases my projects, technical skills, and professional experience, providing a comprehensive overview of my journey as a software engineer.
 
-<center>
+## About Me
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+I am **Alejandro Vargas**, a Software Engineer with experience in web application development, API creation, and AWS Lambda functions. I am recognized for my problem-solving skills, adaptability, and ability to manage time efficiently. My work emphasizes teamwork and a strong motivation to achieve tangible results.
 
-</center>
+---
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+## 🌟 **Features**
 
-## TL;DR
+- Overview of my **GitHub projects**.
+- Detailed **resume** with professional experience.
+- Showcase of my **technical skills**.
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+---
 
-## Built With
+## 🔧 **Technologies**
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+- **Programming Languages:**
+  - Python (Django, Flask, Pandas, Selenium)
+  - JavaScript (React, Node.js)
+- **Databases:**
+  - MySQL
+  - Firebase
+- **Infrastructure and DevOps:**
+  - AWS (Lambda, S3, Cognito)
+  - Docker
+- **Version Control:**
+  - Git & GitHub
+- **Frontend Tools:**
+  - React.js
+  - NextUI
+  - CSS3
+- **Development Environment:**
+  - Visual Studio Code
 
-This project was built using these technologies.
+---
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+## 📫 **Contact**
 
-## Features
+Feel free to reach out or explore my work through these platforms:
 
-**📖 Multi-Page Layout**
+- 📧 [Email](mailto:alejandrovargascuartas@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alejandrovargascuartas)
+- 📄 [Download CV](https://drive.google.com/file/d/1rOJNR9EwYJxL5Z427Gct_lnlc8tIc1D5/view?usp=drive_link)
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+---
 
-**📱 Fully Responsive**
+## 🌐 **Explore**
 
-## Getting Started
+Check out my portfolio here: [Alejandro Vargas Portfolio](https://portafolio-six-sepia.vercel.app/)
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+---
 
-## 🛠 Installation and Setup Instructions
-
-1. Installation: `npm install`
-
-2. In the project directory, you can run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+Feel free to connect with me or explore my work through this platform. Your feedback is always welcome!
