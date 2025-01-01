@@ -8,33 +8,41 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
-            <br />
-            I am currently employed as a software developer at Juspay.
-            <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
-            <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
+            Hi there! 👋 I am{" "}
+            <span className="purple">Alejandro Vargas Cuartas</span>, a Full
+            Stack Developer from{" "}
+            <span className="purple">Medellín, Colombia</span>, passionate about
+            transforming ideas into impactful digital solutions. As a Software
+            Engineering student, I’ve combined my academic foundation with
+            hands-on experience in projects ranging from web application
+            development to implementing APIs and AWS Lambda functions.
+          </p>
+
+          <p style={{ textAlign: "justify" }}>
+            My professional focus lies in optimizing processes and delivering
+            intuitive user experiences. Some of my key achievements include:
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Developing automations with Selenium and React to
+              enhance operational efficiency.
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Designing AI-driven UX/UI prototypes for
+              innovative projects.
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Building scalable web platforms using React and
+              AWS Lambda.
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+          <p style={{ textAlign: "justify" }}>
+            My tech stack includes tools like Python, React, AWS, and Docker,
+            alongside a strong commitment to learning and adapting to new
+            technologies. My goal is to continue contributing to innovative
+            projects that solve real-world challenges.{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
         </blockquote>
       </Card.Body>
     </Card>
