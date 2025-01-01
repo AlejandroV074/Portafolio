@@ -4,7 +4,6 @@ import Particle from "../Particle";
 import Github from "./Github";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
-import laptopImg from "../../Assets/me.png";
 
 function About() {
   return (
@@ -27,10 +26,14 @@ function About() {
           </Col>
           <Col
             md={5}
-            style={{ paddingTop: "120px", paddingBottom: "50px" }}
             className="about-img"
+            style={{ paddingTop: "120px", paddingBottom: "50px" }}
           >
-            <img src={laptopImg} alt="about" className="img-fluid" />
+            <img
+              src="https://www.dropbox.com/scl/fi/3gt84aern659s6ry2lp77/me.png?rlkey=o46r33bsnht0hxxe7sk94c88j&st=vc8jblih&dl=1"
+              alt="Imagen de perfil de usuario"
+              className="img-fluid"
+            />
           </Col>
         </Row>
         <h1 className="project-heading">
